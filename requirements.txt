@@ -7,3 +7,4 @@ urllib3
 django-crispy-forms
 django-allauth
 pillow
+django-cors-headers
